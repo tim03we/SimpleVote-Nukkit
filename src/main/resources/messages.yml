@@ -1,0 +1,15 @@
+---
+prefix: "§eSimpleVote §8> §7"
+
+cooldown.message: "Please wait %1 second(s) until you enter the command again."
+
+command.success: "Thank you so much for voting for us!"
+command.not.voted: "You haven't voted for us today."
+command.already.voted: "You already voted for us today."
+command.checking: "Data is retrieved..."
+
+public.vote: "%1 voted for us and got great rewards!"
+
+floating.text.title: "§8- §7TOP VOTER §8-"
+floating.text: "§a%1 §8> §a%2"
+...

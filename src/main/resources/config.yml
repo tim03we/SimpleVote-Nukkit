@@ -1,0 +1,22 @@
+---
+# Your minecraftpocket-server.com SECRET KEY
+secret-key: "YOUR_SECRET_KEY"
+
+# Top Voter Floating Text
+text:
+  count: 10
+  level: "world"
+  x: 0.0
+  y: 125.0
+  z: 0.0
+
+# Command Cooldown
+cooldown:
+  enable: true
+  # In Seconds
+  time: 60
+
+# Commands if player voted
+commands:
+  - 'give "{player}" steak 64'
+...
